@@ -27,6 +27,10 @@
     "doctrine/dbal": "~2.6"
   },
   "scripts": {
+    "test": "./vendor/bin/phpunit",
+    "martin-georgiev/postgresql-for-doctrine": "^0.12.0"
+  },
+  "scripts": {
     "test": "./vendor/bin/phpunit"
   },
   "suggest": {
